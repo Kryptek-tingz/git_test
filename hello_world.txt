@@ -1,2 +1,2 @@
 hello
-git commit atomic commit
+added atomic commit
